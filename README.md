@@ -1,2 +1,2 @@
 # Artificial-Neural-Network
-Boston Housing Prices Regression
+Housing Prices Regression
